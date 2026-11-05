@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/bavanprasath/bavanprasath/main/assets/masterhead.gif" width="100%" />
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif" />
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/bavanprasath/bavanprasath/main/assets/coding.gif" />
 
 <h1 align="left">Hi 👋, I'm Bavan Prasath</h1>
 
@@ -52,5 +52,5 @@
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bavanprasath&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bavanprasath&theme=tokyonight" />
 </p>
