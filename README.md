@@ -54,4 +54,4 @@
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bavanprasath&theme=tokyonight" />
 </p>
-![Snake Animation](https://raw.githubusercontent.com/BAVANPRASATH/BAVANPRASATH/output/github-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/bavanprasath/bavanprasath/output/github-snake.svg)
